@@ -1,0 +1,17 @@
+C:\Users\MAX\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\MAX\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\MAX\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\MAX\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\MAX\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\MAX\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.Start_form.resources
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.Properties.Resources.resources
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.GenerateResource.cache
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\MAX\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.Test_Form.resources
